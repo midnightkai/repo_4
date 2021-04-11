@@ -1,6 +1,4 @@
 file 1 created
-<<<<<<< HEAD
 vs code edit
-=======
 Github edit
->>>>>>> 7e0fe7047af926e1eede5757db5e359777384e69
+merge conflict resolved
