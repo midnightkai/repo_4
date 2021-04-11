@@ -1,2 +1,4 @@
 file 2 created
 vs code edit
+Github edit
+merge conflict resolved
